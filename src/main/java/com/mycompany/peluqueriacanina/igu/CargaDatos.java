@@ -290,3 +290,5 @@ public class CargaDatos extends javax.swing.JFrame {
     private javax.swing.JTextField txtRaza;
     // End of variables declaration//GEN-END:variables
 }
+
+//Modificacion de la página de la carga de datos.
